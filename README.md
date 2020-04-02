@@ -11,7 +11,7 @@ Repository creates for fast running development process with configuration, whic
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* ROMVoid95 - [ROM](https://github.com/ROMVoid95
+* ROMVoid95 - [ROM](https://github.com/ROMVoid95)
 
 ## Acknowledgments
 ...
